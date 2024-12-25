@@ -1,0 +1,60 @@
+{
+    "Operating System": [
+      {
+        "question": "What is the primary purpose of an Operating System?",
+        "options": ["Process Management", "Data Manipulation", "Web Browsing", "Gaming"],
+        "answer": "Process Management"
+      },
+      {
+        "question": "Which is not a function of an Operating System?",
+        "options": ["Memory Management", "File Management", "Data Compression", "Device Management"],
+        "answer": "Data Compression"
+      },
+      {
+        "question": "What is the primary purpose of an Operating System?",
+        "options": ["Process Management", "Data Manipulation", "Web Browsing", "Gaming"],
+        "answer": "Process Management"
+      },
+      {
+        "question": "What is the primary purpose of an Operating System?",
+        "options": ["Process Management", "Data Manipulation", "Web Browsing", "Gaming"],
+        "answer": "Process Management"
+      },
+      {
+        "question": "What is the primary purpose of an Operating System?",
+        "options": ["Process Management", "Data Manipulation", "Web Browsing", "Gaming"],
+        "answer": "Process Management"
+      },
+      {
+        "question": "What is the primary purpose of an Operating System?",
+        "options": ["Process Management", "Data Manipulation", "Web Browsing", "Gaming"],
+        "answer": "Process Management"
+      }
+
+    ],
+    "OOPS": [
+      {
+        "question": "What does OOP stand for?",
+        "options": ["Object-Oriented Programming", "Open Operation Programming", "Overloaded Object Programming", "None of the above"],
+        "answer": "Object-Oriented Programming"
+      },
+      {
+        "question": "What is the purpose of encapsulation in OOP?",
+        "options": ["Hide implementation details", "Increase memory", "Improve performance", "None of the above"],
+        "answer": "Hide implementation details"
+      }
+    ],
+    "Data Structures": [
+      {
+        "question": "What is the time complexity of searching in a balanced binary search tree?",
+        "options": ["O(n)", "O(log n)", "O(1)", "O(n^2)"],
+        "answer": "O(log n)"
+      },
+      {
+        "question": "Which data structure uses LIFO?",
+        "options": ["Queue", "Stack", "Array", "Linked List"],
+        "answer": "Stack"
+      }
+    ]
+  }
+  
